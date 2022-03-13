@@ -1,1 +1,1 @@
-This is a simple recipe page made using html.
+This is my recipe page made using html as a requirement by Odin-project.
